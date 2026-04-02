@@ -224,17 +224,6 @@
       position: relative;
       z-index: 2;
     }
-
-    /* Seal drip effects */
-    .seal-drip {
-      position: absolute;
-      background: #4A6B3A;
-      border-radius: 0 0 50% 50%;
-    }
-    .seal-drip-1 { width: 8px; height: 12px; top: -5px; left: 20px; transform: rotate(-10deg); }
-    .seal-drip-2 { width: 6px; height: 9px; top: -3px; right: 25px; transform: rotate(8deg); }
-    .seal-drip-3 { width: 10px; height: 14px; bottom: -6px; left: 35px; transform: rotate(5deg); }
-
     /* Letter card */
    .letter-card {
         position: absolute;
